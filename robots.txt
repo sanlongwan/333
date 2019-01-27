@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://sanlongwan.github.io/333/sitemap.xml 
+Sitemap: http://sanlongwan.github.io/sitemap.xml 
